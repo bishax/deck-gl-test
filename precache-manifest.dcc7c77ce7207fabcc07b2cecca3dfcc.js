@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00fc2be40412c4a60d1997ded755bcae",
+    "revision": "1e72d21414edc91b3d88061ad5d61404",
     "url": "/deck-gl-test/index.html"
   },
   {
-    "revision": "37e9aac8da02e38f9881",
+    "revision": "af41e875d64a12cd54cb",
     "url": "/deck-gl-test/static/css/main.d4aed1f3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deck-gl-test/static/js/2.08c1e268.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37e9aac8da02e38f9881",
-    "url": "/deck-gl-test/static/js/main.ebfcaef7.chunk.js"
+    "revision": "af41e875d64a12cd54cb",
+    "url": "/deck-gl-test/static/js/main.13188eba.chunk.js"
   },
   {
     "revision": "1553e52532cedbe50d04",
